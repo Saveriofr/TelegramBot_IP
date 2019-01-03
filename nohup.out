@@ -1,0 +1,6 @@
+{u'username': u'Triktrikbot', u'first_name': u'Triktrikbot', u'is_bot': True, u'id': 747459880}
+Up and Running....
+Traceback (most recent call last):
+  File "telegram_bot.py", line 35, in <module>
+    time.sleep(10)
+KeyboardInterrupt
