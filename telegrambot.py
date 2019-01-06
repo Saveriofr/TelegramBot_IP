@@ -46,7 +46,7 @@ def handle(msg):
         bot.sendMessage(chat_id, str(ip))
 
 # Insert your telegram token below
-bot = telepot.Bot('747459880:AAEmp5_ZGtxHzRigwbjo3L9GC_Az4h0thpo')
+bot = telepot.Bot('token')
 print (bot.getMe())
 
 # Start listening to the telegram bot and whenever a message is  received, the handle function will be called.
